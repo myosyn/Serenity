@@ -132,12 +132,12 @@
   dependencies:
     sirv "^2.0.2"
 
-"@vitest/ws-client@^0.7.11":
-  version "0.7.11"
-  resolved "https://registry.yarnpkg.com/@vitest/ws-client/-/ws-client-0.7.11.tgz#041801cbdddb5b14ec81f16825f0bdf07c942875"
-  integrity sha512-PpOsXggCJFHBNmZgnGmXIWzPTiTBZQLNyULaVDLA6+19h8Mlro1hGFHPX75ha0V6oyQP5g9/rJPjPBcAR7hkGA==
+"@vitest/ws-client@^0.8.0":
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/@vitest/ws-client/-/ws-client-0.8.0.tgz#cbe0712c6142006ee273cc14bf93345d29be59f1"
+  integrity sha512-s3w1Xv/v9oWDUPll7O0AM8ePaos7xuRAaz6Hm/lcw9mf9tHIl5fbAXHuLtaQmxuiWR4wT4OON1k/VixX/e2g5Q==
   dependencies:
-    birpc "^0.1.0"
+    birpc "^0.2.2"
     flatted "^3.2.5"
     ws "^8.5.0"
 
@@ -432,10 +432,10 @@ binary-extensions@^2.0.0:
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-2.2.0.tgz#75f502eeaf9ffde42fc98829645be4ea76bd9e2d"
   integrity sha512-jDctJ/IVQbZoJykoeHbhXpOlNBqGNcwXJKJog42E5HDPUwQTSdjCHdihjj0DlnheQ7blbT6dHOafNAiS8ooQKA==
 
-birpc@^0.1.0:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/birpc/-/birpc-0.1.1.tgz#10b243ffe5a21ccaf4cbaf5a09a6f0cc035c4312"
-  integrity sha512-B64AGL4ug2IS2jvV/zjTYDD1L+2gOJTT7Rv+VaK7KVQtQOo/xZbCDsh7g727ipckmU+QJYRqo5RcifVr0Kgcmg==
+birpc@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/birpc/-/birpc-0.2.2.tgz#7e033234e946e2772fa01dfb897f31dd69184acd"
+  integrity sha512-59Tc83t28ulRZpuPz4JO+ry1EhBsoy81etx1kboBSzkx7hGExqUzIYxwDLcj1Ou8f4P/ZNacqDaat1ubBUbInw==
 
 brace-expansion@^1.1.7:
   version "1.1.11"
