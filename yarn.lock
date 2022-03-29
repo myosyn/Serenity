@@ -1604,10 +1604,10 @@ vitest-plugins@^1.0.1:
   resolved "https://registry.yarnpkg.com/vitest-plugins/-/vitest-plugins-1.0.1.tgz#dba3ea054d4a4e35ca20d7cd3744aadfc5adf2a1"
   integrity sha512-2w1rdbeVWA64quwiU54hnM4QbHDl7hR1dtFCqjNeRqeniCJXmSx7r1GSiktpojiDBKG65NL4U5v6Nurkygg29w==
 
-vitest@^0.7.11:
-  version "0.7.11"
-  resolved "https://registry.yarnpkg.com/vitest/-/vitest-0.7.11.tgz#db88faeec570014b3f771077826f1ceee05e3c4d"
-  integrity sha512-xCEUBCpqiIVhUFIMCKKXDZ/bcPLk2EhPmTFA9qw+Kf+B2d/gm3ZBdUAMa3jIZNZ/d3esji5H6XZPNAk//9K4Kw==
+vitest@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/vitest/-/vitest-0.8.0.tgz#fffd4d1334268a7311c0bfd891a68263a5cb206f"
+  integrity sha512-8m8OufAQWXlNpjm5dTe5Lc60zruguKJljunveueYrd4aoeXaQvggLX0SPmIW3G6PDtnBdNEynSi+6pibjnutQA==
   dependencies:
     "@types/chai" "^4.3.0"
     "@types/chai-subset" "^1.3.3"
