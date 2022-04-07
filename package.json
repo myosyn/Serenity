@@ -11,7 +11,7 @@
   "dependencies": {
     "@algolia/client-search": "^4.13.0",
     "core-js": "^3.21.1",
-    "sass": "^1.49.9",
+    "sass": "^1.50.0",
     "vue": "^3.2.31",
     "vue-multiselect": "^2.1.6",
     "consola": "^2.15.3",
