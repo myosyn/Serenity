@@ -132,10 +132,10 @@
   dependencies:
     sirv "^2.0.2"
 
-"@vitest/ws-client@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@vitest/ws-client/-/ws-client-0.9.0.tgz#c822d61e5d309ebdc195acdfb13c96d0e992ad11"
-  integrity sha512-hMl8EC9VSBBQqx3nfOet8rQPhDPi/fpKbP5oWnPPqnTKHdMywdPcXJUa9BR8vOpDQi0wixVeLTgBJ6nh3n7VFw==
+"@vitest/ws-client@^0.10.0":
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/@vitest/ws-client/-/ws-client-0.10.0.tgz#09c03e93aae52a001df79cf8b65f9832e64151be"
+  integrity sha512-CACGEdaCeptCR+N0KfKpPLYw3FZCDMvm3Q3R8qVj4Ei36lRYDLBRJeLKYfZ164r/vjNV+/C84uywqZjxSh3CYw==
   dependencies:
     birpc "^0.2.2"
     flatted "^3.2.5"
