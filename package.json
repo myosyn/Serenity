@@ -19,7 +19,7 @@
     "vite": "^2.9.0",
     "vitest": "^0.9.0",
     "@vitest/ui": "^0.9.0",
-    "@vitest/ws-client": "^0.9.0"
+    "@vitest/ws-client": "^0.10.2"
   },
   "devDependencies": {
     "vitest-plugin-context": "^1.0.0",
