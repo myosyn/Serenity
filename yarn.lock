@@ -132,14 +132,14 @@
   dependencies:
     sirv "^2.0.2"
 
-"@vitest/ws-client@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@vitest/ws-client/-/ws-client-0.9.0.tgz#c822d61e5d309ebdc195acdfb13c96d0e992ad11"
-  integrity sha512-hMl8EC9VSBBQqx3nfOet8rQPhDPi/fpKbP5oWnPPqnTKHdMywdPcXJUa9BR8vOpDQi0wixVeLTgBJ6nh3n7VFw==
+"@vitest/ws-client@^0.12.1":
+  version "0.12.1"
+  resolved "https://registry.yarnpkg.com/@vitest/ws-client/-/ws-client-0.12.1.tgz#42205087b8fdd4df6006e2249be1c9af9077116f"
+  integrity sha512-yYCm7tmRs0PmBcFASyrctJQg89pDMqx9X6Lce0SEsyNGBgI5rk1RTn9wN6K7Jh1ZqQk7vD1hHunw6AIWk3M68Q==
   dependencies:
     birpc "^0.2.2"
     flatted "^3.2.5"
-    ws "^8.5.0"
+    ws "^8.6.0"
 
 "@vue/compiler-core@3.2.31":
   version "3.2.31"
@@ -1706,10 +1706,10 @@ wrappy@1:
   resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
   integrity sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=
 
-ws@^8.5.0:
-  version "8.5.0"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-8.5.0.tgz#bfb4be96600757fe5382de12c670dab984a1ed4f"
-  integrity sha512-BWX0SWVgLPzYwF8lTzEy1egjhS4S4OEAHfsO8o65WOVsrnSRGaSiUaa9e0ggGlkMTtBlmOpEXiie9RUcBO86qg==
+ws@^8.6.0:
+  version "8.6.0"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-8.6.0.tgz#e5e9f1d9e7ff88083d0c0dd8281ea662a42c9c23"
+  integrity sha512-AzmM3aH3gk0aX7/rZLYvjdvZooofDu3fFOzGqcSnQ1tOcTWwhM/o+q++E8mAyVVIyUdajrkzWUGftaVSDLn1bw==
 
 yallist@^4.0.0:
   version "4.0.0"
