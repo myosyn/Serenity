@@ -125,10 +125,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.23.tgz#3b41a6e643589ac6442bdbd7a4a3ded62f33f7da"
   integrity sha512-UxDxWn7dl97rKVeVS61vErvw086aCYhDLyvRQZ5Rk65rZKepaFdm53GeqXaKBuOhED4e9uWq34IC3TdSdJJ2Gw==
 
-"@vitest/ui@^0.12.1":
-  version "0.12.1"
-  resolved "https://registry.yarnpkg.com/@vitest/ui/-/ui-0.12.1.tgz#613dd8328d3f4ab0ee789132c3bddf60a62d438f"
-  integrity sha512-YdFPVGUvjOrOe7FQs72Pnqajruh5rmfPz8nSsSWv32da9XR8+xJa8ILjJjtmyq8HPOkc5frtZ8Zu+hxqWi1UgA==
+"@vitest/ui@^0.14.2":
+  version "0.14.2"
+  resolved "https://registry.yarnpkg.com/@vitest/ui/-/ui-0.14.2.tgz#63809d41127f8b539919ea785302b2ae11e6cd99"
+  integrity sha512-yV2paiv0/Obymx+9KV+KjM/FAbYF+PbnQiO2RFnZqDCgYwkkNmO1ZNNIetBeOzuNoi1BT1iPSKwtvL0PwCesDQ==
   dependencies:
     sirv "^2.0.2"
 
