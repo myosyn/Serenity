@@ -1,2 +1,2 @@
 # website
-Website made in Vue, Typescript, and Sass. 
+Kotlin/JS website because why not?
