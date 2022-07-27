@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "target": "ESNext",
+        "module": "ESNext",
+        "lib": ["es2021.intl", "DOM", "DOM.Iterable"],
+
+        // I have no idea why I did this but I did do this so like :))))))
+        // Have fun with this future me because I did you so much of a favor
+        "importsNotUsedAsValues": "error",
+        "isolatedModules": true,
+
+        "sourceMap": true,
+        "types": ["svelte"],
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "baseUrl": "."
+    },
+    "include": ["src/**/*.d.ts", "src/**/*.js", "src/**/*.ts", "src/**/*.svelte"]
+}
+
